@@ -1,4 +1,6 @@
 # GSoC_2020_-Idea-
+AI Waste Segregator
+
 1.This a my first step towards Waste Management and Segregation using ML.
 
 2.The Basic Idea is provided in Idea file as a ppt.
