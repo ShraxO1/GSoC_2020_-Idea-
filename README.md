@@ -5,6 +5,6 @@ AI Waste Segregator
 
 2.The Basic Idea is provided in Idea file as a ppt.
 
-3.The ML algrithm for this is in progress.
+3.My project of image classifier will be further developed for this.
 
 4.All open source software developers are welcome to improve on this idea.
